@@ -30,7 +30,7 @@
         "jss-rtl": "0.3.0",
         "jwt-decode": "2.2.0",
         "keycode": "2.2.0",
-        "lodash": "4.17.15",
+        "lodash": "4.17.19",
         "marked": "0.8.0",
         "material-table": "1.57.1",
         "material-ui-popup-state": "1.5.1",
